@@ -1,6 +1,0 @@
-Pass in . You don't know what the client is.
-
-use ps -aux | grep 9999 to catch the threads in the test
-then use kill -SIGTERM to kill the thread
-
-When to call accept invitation????
